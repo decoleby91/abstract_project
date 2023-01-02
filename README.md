@@ -6,3 +6,6 @@ https://www.frontendpractice.com/projects/abstract
 
 ### Link to github repo
 https://github.com/decoleby91/abstract_project
+
+#### Link to the original page
+https://help.abstract.com/hc/en-us
